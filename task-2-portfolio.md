@@ -1,5 +1,6 @@
 <img width="1600" height="712" alt="image" src="https://github.com/user-attachments/assets/c04b516c-bd73-4a21-98a1-2ca21b315dd0" />
-![WhatsApp Image 2026-03-26 at 10 12 04 AM](https://github.com/user-attachments/assets/839a7c2f-91d7-4a75-ade0-f528ebe86424)
+<img width="1276" height="743" alt="image" src="https://github.com/user-attachments/assets/f41c8645-60e4-4fc5-9d8c-9d17a07e63aa" />
+
 
 <img width="1600" height="684" alt="image" src="https://github.com/user-attachments/assets/b771204f-8006-4170-957c-94d1bf263735" />
 Platform Overview & Purpose:
