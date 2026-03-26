@@ -3,6 +3,9 @@
 
 
 <img width="1600" height="684" alt="image" src="https://github.com/user-attachments/assets/b771204f-8006-4170-957c-94d1bf263735" />
+<img width="1369" height="822" alt="image" src="https://github.com/user-attachments/assets/d78be239-ed88-4b04-82c3-9f219db66e56" />
+
+
 Platform Overview & Purpose:
 
 GitHub (Vanshaj777): I am using GitHub as my primary technical showroom. My profile currently hosts repositories like an Ai-assistant and an Expense-Alert-from-SMS system. This platform allows me to demonstrate my Python proficiency and my ability to build real-world automation tools. Over the next four years, I plan to maintain a consistent contribution streak to show my dedication to continuous learning.
