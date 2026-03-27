@@ -3,7 +3,10 @@
 
 
 <img width="1600" height="684" alt="image" src="https://github.com/user-attachments/assets/b771204f-8006-4170-957c-94d1bf263735" />
-<img width="1369" height="822" alt="image" src="https://github.com/user-attachments/assets/d78be239-ed88-4b04-82c3-9f219db66e56" />
+
+
+<img width="1384" height="783" alt="image" src="https://github.com/user-attachments/assets/d6efd8bf-f21f-41eb-9dbf-0162164c9a39" />
+
 
 
 Platform Overview & Purpose:
