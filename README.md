@@ -20,6 +20,7 @@ Objective: To move from a "student" identity to a "pre-professional" identity.
 
 # Module 3: Technical Platforms & Data Collaboration
 Objective: To master the tools of modern technical work.
+https://forms.gle/mBTJbHGMNboYZkdAA
 
 # Execution: I completed foundational Python challenges on HackerRank to sharpen my algorithmic logic. Simultaneously, I deployed a Google Form/Sheet ecosystem to poll batchmates on their digital awareness.
 
